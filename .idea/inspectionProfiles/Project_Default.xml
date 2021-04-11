@@ -1,0 +1,24 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPep8Inspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="E302" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="Django_Level_One.Django_Level_One.first_project.first_app.views.first_app" />
+          <option value="Django_Level_One.Django_Level_One.first_project.first_app.views.AccessRecord" />
+          <option value="Django_Level_One.Django_Level_One.first_project.first_project.urls.*" />
+          <option value="first_app" />
+          <option value="Django_Level_One.Django_Level_One.first_project.first_app.urls.views" />
+          <option value="ProTwo.ProTwo.urls.appTwo" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>

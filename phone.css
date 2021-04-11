@@ -1,0 +1,25 @@
+/* media="screen and (max-width: 480)" */
+@media (max-width: 480px) {
+  .text {
+    font-size: 16px;
+  }
+
+body{
+  background-color: #42d1f5;
+}
+
+.controls{
+  position: absolute;
+  right: 10%;
+  top: 60%;
+}
+.feature img{
+  width: 50px;
+  margin-top: 55px;
+}
+
+.feature div p{
+  margin-top: 39px;
+}
+
+}
